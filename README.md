@@ -11,3 +11,8 @@
 # Time Stats
 
 [![Mike's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miketsukerman)](https://github.com/anuraghazra/github-readme-stats)
+
+# Hobby
+
+* https://www.flickr.com/people/124444159@N05/
+* https://500px.com/p/miketsukerman?view=photos
