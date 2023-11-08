@@ -8,10 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketsukerman&size_weight=0.5&count_weight=0.5)
 
-# Time Stats
-
-[![Mike's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miketsukerman)](https://github.com/anuraghazra/github-readme-stats)
-
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
