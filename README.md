@@ -22,11 +22,6 @@ I'm a software engineer specialising in **embedded & automotive systems**, **rob
 | Project | Description | Language |
 |---------|-------------|----------|
 | [vsomeip-ros-bridge](https://github.com/miketsukerman/vsomeip-ros-bridge) | PoC SOME/IP ↔ ROS2 topic bridge | C++ |
-| [meta-haskell](https://github.com/miketsukerman/meta-haskell) | Yocto layer for Haskell toolchain | BitBake |
-| [ros2-packaging-bazel](https://github.com/miketsukerman/ros2-packaging-bazel) | ROS2 packaging with Bazel | Starlark |
-| [ros2-packaging-cmake](https://github.com/miketsukerman/ros2-packaging-cmake) | ROS2 CMake packaging example | C++ |
-| [someip-sniffer](https://github.com/miketsukerman/someip-sniffer) | SOME/IP packet sniffer | C++ |
-| [FreeRTOS-CMake](https://github.com/miketsukerman/FreeRTOS-CMake) | FreeRTOS with CMake build system | C |
 
 ---
 
