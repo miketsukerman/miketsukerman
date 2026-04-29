@@ -1,11 +1,51 @@
-# Hello, World! 
+# Hi, I'm Michael 👋
 
-## How to reach me
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://de.linkedin.com/in/michael-tsukerman-80599369)
+I'm a software engineer specialising in **embedded & automotive systems**, **robotics**, and **C++**. I enjoy building reliable, high-performance software — from bare-metal firmware all the way up to ROS2-based robot middleware.
 
-# Hobby
+---
 
-## Photography
+## 🛠️ Tech Stack
 
-* https://www.flickr.com/people/124444159@N05/
-* https://500px.com/p/miketsukerman?view=photos
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Bazel](https://img.shields.io/badge/Bazel-43A047?style=flat-square&logo=bazel&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Conan](https://img.shields.io/badge/Conan-6699CB?style=flat-square&logo=conan&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto-5C9C3E?style=flat-square&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [vsomeip-ros-bridge](https://github.com/miketsukerman/vsomeip-ros-bridge) | PoC SOME/IP ↔ ROS2 topic bridge | C++ |
+| [meta-haskell](https://github.com/miketsukerman/meta-haskell) | Yocto layer for Haskell toolchain | BitBake |
+| [ros2-packaging-bazel](https://github.com/miketsukerman/ros2-packaging-bazel) | ROS2 packaging with Bazel | Starlark |
+| [ros2-packaging-cmake](https://github.com/miketsukerman/ros2-packaging-cmake) | ROS2 CMake packaging example | C++ |
+| [someip-sniffer](https://github.com/miketsukerman/someip-sniffer) | SOME/IP packet sniffer | C++ |
+| [FreeRTOS-CMake](https://github.com/miketsukerman/FreeRTOS-CMake) | FreeRTOS with CMake build system | C |
+
+---
+
+## 📊 GitHub Stats
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=miketsukerman&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miketsukerman&layout=compact&hide_border=true&langs_count=6)
+
+---
+
+## 📷 Photography
+
+I love capturing the world through a lens. You can find my work on:
+
+[![Flickr](https://img.shields.io/badge/Flickr-0063DC?style=flat-square&logo=flickr&logoColor=white)](https://www.flickr.com/people/124444159@N05/)
+[![500px](https://img.shields.io/badge/500px-0099E5?style=flat-square&logo=500px&logoColor=white)](https://500px.com/p/miketsukerman?view=photos)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/michael-tsukerman-80599369)
