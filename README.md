@@ -22,6 +22,15 @@ I'm a software engineer specialising in **embedded & automotive systems**, **rob
 | Project | Description | Language |
 |---------|-------------|----------|
 | [vsomeip-ros-bridge](https://github.com/miketsukerman/vsomeip-ros-bridge) | PoC SOME/IP ↔ ROS2 topic bridge | C++ |
+| [bsp-registry-tools](https://github.com/miketsukerman/bsp-registry-tools) | Tools for BSP registry management | — |
+| [bsp-registry](https://github.com/miketsukerman/bsp-registry) | Board Support Package registry | — |
+| [awasome-ways-to-build-cpp-project](https://github.com/miketsukerman/awasome-ways-to-build-cpp-project) | Awesome ways to build a C++ project | — |
+
+---
+
+## 🏢 Organizations
+
+- [geophone-dev](https://github.com/geophone-dev) — Geophone development organization
 
 ---
 
